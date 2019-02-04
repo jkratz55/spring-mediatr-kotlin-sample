@@ -1,1 +1,1 @@
-# spring-mediatr-kotlin-sample
+# Spring MediatR Kotlin Sample
